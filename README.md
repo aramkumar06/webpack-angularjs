@@ -79,3 +79,5 @@ Fish
 set -x SAUCE_USERNAME username
 set -x SAUCE_ACCESS_KEY foo-bar-baz
 ```
+
+https://brian.olore.net/wp/2017/06/journey-to-webpack-part-3-finish-the-vendors/
